@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 "Hallo world!"
 <<<<<<< HEAD
+=======
+>>>>>>> develop_test
 "develop new world!"
 <<<<<<< HEAD
 =======
