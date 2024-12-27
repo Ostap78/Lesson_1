@@ -1,15 +1,2 @@
-<<<<<<< HEAD
-"Hallo world!"
-<<<<<<< HEAD
-=======
->>>>>>> develop_test
 "develop new world!"
-<<<<<<< HEAD
-=======
-"develop new world!"
-"merging!"
->>>>>>> develop_test
-=======
-"merging!!!"
-
->>>>>>> develop_test
+"merging"
