@@ -1,2 +1,8 @@
 "develop new world!"
+<<<<<<< HEAD
 "merging"
+=======
+"merging!!!"
+"merge!"
+
+>>>>>>> develop_test
