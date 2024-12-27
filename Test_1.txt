@@ -1,3 +1,4 @@
 "develop new world!"
 "merge!"
+"merge_new!"
 
