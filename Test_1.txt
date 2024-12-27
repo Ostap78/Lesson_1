@@ -1,7 +1,12 @@
 "Hallo world!"
 <<<<<<< HEAD
 "develop new world!"
+<<<<<<< HEAD
 =======
 "develop new world!"
 "merging!"
+>>>>>>> develop_test
+=======
+"merging!!!"
+
 >>>>>>> develop_test
